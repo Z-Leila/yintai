@@ -1,0 +1,13 @@
+body,li,ul,dl,dt,p,pre,ol,form,input,h1,h2,h3,h4,h5,h6{padding:0;
+                                                 margin:0;
+                                                 list-style: none;
+                                                 font-size: 12px;
+                                                 font-style: normal;
+                                             }
+
+a{text-decoration: none;
+  color: #666;
+}
+
+*{ font-family: Verdana, simsun, sans-serif,"宋体","微软雅黑";}
+image{border:0px;}
